@@ -1,2 +1,6 @@
-# ZombiesAutomata
-This is a 3rd Year Parallel Programming project based on "When Zombies Attack - Munz, Hudea, Smith". This will be made using C and PThreads.
+# Parallel-Zombies
+This is a piece of Parallel Programming work based on "When Zombies Attack - Munz, Hudea, Smith". Made using C and PThreads.
+
+### Commands to run code:
+- `make`
+- `./parallel`
